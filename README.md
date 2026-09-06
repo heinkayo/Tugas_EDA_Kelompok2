@@ -13,11 +13,16 @@ Folder tersebut berisi file hasil pengerjaan tugas EDA:
 * **Excel**: Dataset dan hasil analisis
 * **Presentation**: File presentasi hasil EDA
 
+## Group Members
+
+1. **Satria Ramadhani**
+2. **Dzu Fadli Raihandy**
+
+## Lecturer
+
+**Amanatullah Pandu Zenklinov, S.Stat., M.Stat.**
+
 ## Course
 
 **Pengantar Sains Data**
 Matana University
-
-## Group
-
-**Kelompok 2**
